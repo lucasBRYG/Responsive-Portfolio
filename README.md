@@ -62,3 +62,9 @@ https://lucasbryg.github.io/Weather-Dashboard-App/
  - responsive framework
  - user's local storage
 
+
+
+## Author
+
+- Linkedin -- https://www.linkedin.com/in/lucas-bryg-codes/
+- GitHub -- https://github.com/lucasBRYG/
